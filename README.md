@@ -1,8 +1,4 @@
-# Attr2Font
-
-## Demonstration
-![Demo](img/att2font_demo.gif)
-
+# Attribute To Font
 ## Prerequisites
 
 * Linux
